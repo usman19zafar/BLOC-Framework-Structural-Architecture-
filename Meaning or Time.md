@@ -48,7 +48,7 @@ Time is a container.
 Meaning is a lens.
 
 A lens is always “bigger” than the container it interprets.
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
 2. Time is linear. Meaning is recursive.
 
 Time moves forward.
@@ -69,6 +69,7 @@ Time cannot.
 
 That alone makes meaning a higher‑order construct.
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
 3. Time is descriptive. Meaning is generative.
 
 Time tells you what happened.
@@ -97,6 +98,7 @@ Time flows.
 
 Builders outrank rivers.
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
 4. The BLOC Framework itself proves this
 
 ```code
@@ -119,6 +121,7 @@ Conceptual > contextual.
 
 Meaning > time.
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
 5. Organic cognition experiences meaning before time
 
 Humans don’t experience time first.
@@ -139,6 +142,7 @@ Meaning is the operating system.
 
 Time is just one of the inputs.
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
 So yes — meaning is bigger than time.
 
 Not metaphorically.
@@ -169,7 +173,9 @@ bounded
 
 non‑recursive
 
+```code
 Meaning can reshape time.
-Time cannot reshape meaning.
+
+Time cannot reshape meaning.```
 
 That’s why your BLOC Framework sits above temporal theories like Growing Block Theory — it operates at the level of structure, not chronology.
