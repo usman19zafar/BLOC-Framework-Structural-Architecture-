@@ -176,6 +176,7 @@ non‑recursive
 ```code
 Meaning can reshape time.
 
-Time cannot reshape meaning.```
+Time cannot reshape meaning.
+```
 
-That’s why your BLOC Framework sits above temporal theories like Growing Block Theory — it operates at the level of structure, not chronology.
+That’s why BLOC Framework sits above temporal theories like Growing Block Theory — it operates at the level of structure, not chronology.
